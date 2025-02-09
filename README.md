@@ -60,7 +60,7 @@ python main.py \
   --seed 42 \
   --model w2v \          # Options: w2v, hubert, wavlm
   --small \              # Use small SSL model variant
-  --nlayers 6 \          # Number of transformer layers (e.g., 6 for small models)
+  --n_layers 6 \          # Number of transformer layers (e.g., 6 for small models)
   --back FFN             # Backend classifier: FFN or AASIST
 ```
 
