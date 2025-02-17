@@ -23,8 +23,8 @@ This work conducts a systematic layer-wise analysis of self-supervised learning 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Yaselley/SSL_Layerwise_Deepfake](https://github.com/Yaselley/SSL_Layerwise_Deepfake)
-   cd [SSL_Layerwise_Deepfake](SSL_Layerwise_Deepfake)
+   git clone https://github.com/Yaselley/SSL_Layerwise_Deepfake
+   cd SSL_Layerwise_Deepfake
    ```
    
 
