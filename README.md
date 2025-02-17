@@ -18,14 +18,13 @@ This work conducts a systematic layer-wise analysis of self-supervised learning 
 ![Figure 1](analysis/SMALL.png)
 ![Figure 2](analysis/LARGE.png)
 
-
 ---
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ssl-deepfake-detection.git
-   cd ssl-deepfake-detection
+   git clone [https://github.com/Yaselley/SSL_Layerwise_Deepfake](https://github.com/Yaselley/SSL_Layerwise_Deepfake)
+   cd [SSL_Layerwise_Deepfake](SSL_Layerwise_Deepfake)
    ```
    
 
