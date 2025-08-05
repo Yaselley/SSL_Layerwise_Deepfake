@@ -18,14 +18,13 @@ This work conducts a systematic layer-wise analysis of self-supervised learning 
 ![Figure 1](analysis/SMALL.png)
 ![Figure 2](analysis/LARGE.png)
 
-
 ---
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ssl-deepfake-detection.git
-   cd ssl-deepfake-detection
+   git clone https://github.com/Yaselley/SSL_Layerwise_Deepfake
+   cd SSL_Layerwise_Deepfake
    ```
    
 
@@ -60,7 +59,7 @@ python main.py \
   --seed 42 \
   --model w2v \          # Options: w2v, hubert, wavlm
   --small \              # Use small SSL model variant
-  --nlayers 6 \          # Number of transformer layers (e.g., 6 for small models)
+  --n_layers 6 \          # Number of transformer layers (e.g., 6 for small models)
   --back FFN             # Backend classifier: FFN or AASIST
 ```
 
